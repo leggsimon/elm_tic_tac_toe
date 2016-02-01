@@ -13,4 +13,5 @@ elm-make --yes
 ### Things I've Learnt
 
 - FRP Languages don't have state!!! What?!
+- Run `elm-repl` to use Elm's console.
 
