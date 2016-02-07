@@ -25,3 +25,4 @@ elm-test TestRunner.elm
 - [Pragmatic Studio - Getting Started with Elm](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm)
 - [Elm-Lang core Library](http://package.elm-lang.org/packages/elm-lang/core/3.0.0/)
 - [Getting off the ground in Elm](http://blog.jessitron.com/2015/11/getting-off-ground-in-elm-project-setup.html)
+- [Elm Tutorial](http://www.elm-tutorial.org/)
